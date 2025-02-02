@@ -3,7 +3,7 @@
 
 - 🔭 I’m have graduated in 2024 from **IIT Bhubaneswar**
 
-- 🌱 I’m currently working at **Brane Group** as a Software development engineer
+- 🌱 I’m currently working at **Zomato** as a Software development engineer
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04) -->
 
